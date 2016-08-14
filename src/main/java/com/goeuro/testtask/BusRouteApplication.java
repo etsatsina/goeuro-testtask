@@ -1,7 +1,6 @@
 package com.goeuro.testtask;
 
 import com.goeuro.testtask.service.BusRouteLoader;
-import com.sun.javaws.exceptions.InvalidArgumentException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
