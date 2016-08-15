@@ -1,7 +1,7 @@
 #!/bin/bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-RUN="java -jar target\bus-route-0.0.1-SNAPSHOT.jar"
+RUN="java -jar bus-route-0.0.1-SNAPSHOT.jar"
 NAME=bus-route-service
 
 DATA_FILE=$2
