@@ -6,8 +6,10 @@
 * Maven
 * Integration tests were implemented with the help of Junit and Spring Test Tools
 * A HashMap was used as data structure for storing station ids and its directly connected stations
+
 ***
-## How to run
+
+### How to run
 ```
 mvn clean package
 java -jar target/bus-route-0.0.1-SNAPSHOT.jar
